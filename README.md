@@ -1,12 +1,12 @@
 # ERP-Sales-Data-Analysis  
 
-This project analyzes sales data to identify patterns and trends using Python, and Tableau.  
+This project analyzes sales data to identify patterns and trends using Python, and Power BI  
 
 **Tools Used** 
 
 Python for initial data cleaning,exploration,data processing and analysis  
 
-Tableau for creating interactive dashboards and visualizations  
+Power BI for creating interactive dashboards and visualizations  
 
 **Problem Statement:**  
 
